@@ -1,0 +1,4 @@
+services: 
+  ubuntu:
+    image: ubuntu
+    tty: true
